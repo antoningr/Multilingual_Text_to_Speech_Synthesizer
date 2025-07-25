@@ -1,6 +1,6 @@
 # 🗣️ Multilingual Text-to-Speech Synthesizer
 
-This is a **`Streamlit` web application** that converts text into **natural-sounding speech** in **multiple languages** using `Google Text-to-Speech` (`gTTS`). The app supports **language auto-detection**, **speech speed control**, and *audio format selection** (MP3 or WAV). Users can enter or paste text, select a language or auto-detect it, and generate audio that can be played back or downloaded.
+This is a **`Streamlit` web application** that converts text into **natural-sounding speech** in **multiple languages** using **Google Text-to-Speech** (`gTTS`). The app supports **language auto-detection**, **speech speed control**, and **audio format selection** (`MP3` or `WAV`). Users can enter or paste text, **select a language** or **auto-detect** it, and **generate audio** that can be played back or downloaded.
 
 
 ## Demo Screenshot
@@ -12,13 +12,13 @@ This is a **`Streamlit` web application** that converts text into **natural-soun
 
 ## Features
 
-- Supports over 70 languages and accents.
-- Auto language detection with fallback.
-- Select normal or slow speech speed.
-- Choose audio output format: MP3 or WAV.
-- Preview and download generated audio.
-- Keeps a playback history in a sidebar.
-- Shows live text statistics (character and word count).
+- Supports over **70 languages** and accents.
+- **Auto language detection** with fallback.
+- Select **normal** or **slow speech speed**.
+- Choose **audio output format**: MP3 or WAV.
+- Preview and **download** generated audio.
+- Keeps a **playback history** in a sidebar.
+- Shows live **text statistics** (character and word count).
 - Easy to use with a clean, responsive UI.
 
 
@@ -26,7 +26,7 @@ This is a **`Streamlit` web application** that converts text into **natural-soun
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/ntoningr/Multilingual_Text_to_Speech_Synthesizer.git
+git clone https://github.com/antoningr/Multilingual_Text_to_Speech_Synthesizer.git
 ```
 2. Change directory:
 ```bash
