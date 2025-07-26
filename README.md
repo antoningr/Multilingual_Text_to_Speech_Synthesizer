@@ -60,4 +60,3 @@ Then open your browser at [http://localhost:8501](http://localhost:8501) to acce
 - [`langdetect`](https://pypi.org/project/langdetect/)
 
 See `requirements.txt` for full list.
-
